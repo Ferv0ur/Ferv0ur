@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ferv0ur
-- 👀 I’m interested in python, databases and datascience
+- 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything I can help with
 - 📫 How to reach me whistle really loud
 
 <!---
